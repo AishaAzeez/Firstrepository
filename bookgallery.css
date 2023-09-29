@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Kenia&family=Lora:wght@500;600&family=Mooli&family=Playfair+Display&display=swap');
+   .cla1{
+    
+    margin-left:50px ;
+     font-family: 'GFS Didot', serif;
+    }
+    #id1{
+        margin-top:-16px;
+        width: 100px;
+        height: 100px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: xx-large;
+    }
+body{
+    background-color: #DBD4CC;
+}
+.c{
+    border: 0px white solid;
+    background-color:rgba(165, 186, 147, 0) ;
+    height: 352px;
+    width: 235px;
+    float: left;
+    margin-left: 29px;
+    margin-top: 25px;
+    padding: 9px;
+}
+img{
+    width: 50%;
+    height: 40%;
+    padding: 9px;
+    border-radius: 17px;
+}
+p{
+text-align:unset;
+margin-top: -16px;
+margin-left: 9px;
+font-family: 'Cormorant Garamond', serif;
+font-size: small;
+padding-right: 5px;
+}
+h3{
+margin-left: 9px;
+margin-top: -10px;
+}
+.p{
+    margin-left: 9px;
+    margin-top:3px;
+    font-family: 'Playfair Display', serif;
+    font-size: small;
+}
+.c:hover{
+    box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.2);
+    border: 1px black solid;
+}
+button{
+    margin-left: 3px;
+    text-decoration-line: underline;
+    border: #DBD4CC 0px solid;
+    background-color: #DBD4CC;
+    font-size: small;
+    margin-top: 0px;
+    font-family: 'Playfair Display', serif;
+}
+button:hover{
+    background-color:#DBD4CC;
+    color: black;
+}
+#id2{
+    height: 100%;
+}
+
+#v1{
+    width: 1px;
+    height: 100px;
+    background-color: black;
+   margin-left: 890px;
+   margin-top: -125px;
+}
+hr{
+    width: 1417px;
+    margin-top: -51px;
+    margin-left: -873px;
+}
+#v2{
+border: 0px white solid;
+height: 100px;
+width: 800px;
+margin-left: 29px;
+margin-top:-5px;
+padding: 9px;}
+#p1{
+    text-align: center;
+   margin-left: 180px;
+    margin-top: 30px;
+    font-size: large;
+    font-family: 'Permanent Marker', cursive;
+}
+#p2{
+    margin-left: 688px;
+    margin-top: 5px;
+    font-size: small;  
+    
+}
